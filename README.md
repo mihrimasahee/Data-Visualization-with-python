@@ -1,7 +1,9 @@
 # Data-Visualization-with-python
 
 In this execise, plot a linear line of best fit, and use it to predict the number of immigrants in 2015.
+
 'No. Immigrants = 5567 * Year + -10926195'
+
 Using the equation of line of best fit, we can estimate the number of immigrants in 2015:
 
 - No. Immigrants = 5567 * Year - 10926195
